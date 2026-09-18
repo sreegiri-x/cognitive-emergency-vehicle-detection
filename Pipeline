@@ -1,0 +1,36 @@
+                    I-24 MOTION
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+       Trajectory Data           Video Data
+             │                       │
+             ▼                       ▼
+      Vehicle Extraction       Frame Extraction
+             │                       │
+             ▼                       ▼
+       Feature Engineering      VideoMAE
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+                Temporal Representation
+                         │
+                         ▼
+              Traffic Interaction Model
+                         │
+                         ▼
+                 Risk Estimation
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+             ▼                       ▼
+       Risk Prediction          Attention Map
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+                 Evidence Fusion
+                         │
+                         ▼
+                  LLM Explanation
+                         │
+                         ▼
+             Human-Readable Report
