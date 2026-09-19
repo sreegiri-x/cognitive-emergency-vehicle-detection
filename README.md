@@ -324,18 +324,7 @@ See `LICENSE` for details.
 
 ---
 
-## Citation
 
-If this project contributes to your research, a citation format will be added once the associated research work is finalized.
-
-```text
-Cognitive EV Detection
-AI-based cognitive emergency vehicle detection
-and risk analysis using explainable video understanding.
-
-```
-
----
 
 ## Author
 
