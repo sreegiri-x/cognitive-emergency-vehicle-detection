@@ -1,0 +1,7 @@
+,rmse,rmse,mae,mae,r2,r2
+,mean,std,mean,std,mean,std
+model,,,,,,
+A-CPF + Koopman + DFCG (Proposed),0.1976,0.0536,0.1584,0.0455,-1.0774,0.7852
+Linear Ridge Regression,0.1884,0.058,0.1574,0.0481,-0.8687,0.7393
+Mean Predictor (Dummy),0.1859,0.0585,0.1561,0.0483,0.0,0.0
+Vanilla GRU Baseline,0.198,0.0579,0.1623,0.0472,-1.079,0.8369
