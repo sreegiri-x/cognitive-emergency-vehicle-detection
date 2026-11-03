@@ -1,4 +1,4 @@
-# Adaptive Cognitive Pressure Field (A-CPF) + Koopman + DFCG
+# Adaptive Cognitive Emergency vehicle detection
 
 ## 1. Overview
 
