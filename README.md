@@ -65,9 +65,4 @@ Before publishing benchmark results, record:
 - [ ] Validate visual explanations on correct and incorrect predictions
 - [ ] Constrain LLM explanations to evidence available from the model pipeline
 - [ ] Publish benchmark results and example outputs
-## Repository
-Source code: [sreegiri-x/cognitive-emergency-vehicle-detection](https://github.com/sreegiri-x/cognitive-emergency-vehicle-detection)
-## Citation
-If you use or discuss this work in research, cite the repository and its release or commit. A formal citation entry can be added when a stable release or associated paper is available.
-## License
-Add the intended project licence before distributing or reusing the code. Until a licence is specified, do not assume that the repository grants permission for reuse.
+
